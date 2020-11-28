@@ -1,0 +1,5 @@
+Credentials cache: API:BB51F0F6-6ED9-46DF-ADC3-2E14C83F8F27
+        Principal: gyesayan@42YEREVAN.AM
+
+  Issued                Expires               Principal
+Nov 25 20:37:46 2020  Nov 26 06:37:46 2020  krbtgt/42YEREVAN.AM@42YEREVAN.AM
